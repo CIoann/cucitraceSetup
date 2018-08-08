@@ -1,0 +1,20 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The following libraries should be copied in the directory
+	* /x86../java/jre.../bin*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* libboost_system-mt.dll
+* libboost_thread-mt.dll
+* tetio.dll
+* tetio.lib
+* tobii_research.dll
+* tobii_research.lib
+* tobiitracker.dll *(The generated from visual studio)
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The following libraries should be added in Eclipse
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* mysql-connector-java-8.0.11.jar
+* cucumber-eclipse-plugin-0.0.22-SNAPSHOT.zip
