@@ -3,6 +3,7 @@ Compile Tobii Library
 =====================
 
 use Visual studio 2010 or any other 
+** Remember to add everything for 32bit to avoid any compatibility issues
 
 --------------------------------
 
@@ -24,3 +25,17 @@ tobii_research_streams.h
 
 In Directory Source include
 edu_ysu_itrace_trackers_TobiiTracker.cpp
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+In the file edu_ysu_itrace_trackers_TobiiTracker.cpp you should 
+change the directory path for the location of the lisence
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+After you've done this 
+
+Add to the properties of the project
+General -> Configuration Type * Dynamic Library .dll*
+C\C++ -> Additional include directories 
+	* Directory of where all the added header files are located
+	* Directory of java/jdk../include 
+	* Directory of java/jdk../inlcude/win32
