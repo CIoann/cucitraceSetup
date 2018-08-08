@@ -1,0 +1,10 @@
+Eclipse jee neon - 32bit
+GitHub Desktop
+Google drive synch - Data Collection folder
+jdk 8u181 windows 32 bit
+jre 8u181 windows 32 bit
+mysql workbench 8-0-12 64bit
+Tobii pro eye tracker manager windows 32bit /newer version should be okay too
+Tobii eye tracking core v2.13.3.7443  32bit /newer version should be okay too
+
+visual studio 32bit 
