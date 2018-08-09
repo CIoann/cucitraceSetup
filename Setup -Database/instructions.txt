@@ -1,0 +1,8 @@
+Download and install mysql server msi installer
+Download and install mysql workbench 
+
+Remember to set the database -- entries don't limit
+
+use the iTrace.sql to create the required tables.
+Create a connection to the database username root and password root
+

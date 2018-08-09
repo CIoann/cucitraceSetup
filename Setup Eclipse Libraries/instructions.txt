@@ -17,4 +17,4 @@ The following libraries should be added in Eclipse
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * mysql-connector-java-8.0.11.jar
-* cucumber-eclipse-plugin-0.0.22-SNAPSHOT.zip
+* cucumber-eclipse-plugin-0.0.19-SNAPSHOT.zip -- because the others slow down the system
