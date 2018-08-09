@@ -206,7 +206,7 @@ Java_edu_ysu_itrace_trackers_TobiiTracker_jniConnectTobiiTracker(
 	//Setting license
 	int license_success;
 	//HARD CODED. BAD
-	license_success = apply_licenses_example(native_data->eye_tracker, "C:/Users/coio/Documents/GitHub/cucitraceSetup/Tobii - Installation Guide/TobiiDrivers");
+	license_success = apply_licenses_example(native_data->eye_tracker, "C:/Users/coio/Documents/cucitraceSetup/Tobii - Installation Guide/TobiiDrivers/tobii_lisence");
 	//Needs a check for whether eyetracker is found.
 	
 
