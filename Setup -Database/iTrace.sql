@@ -1,4 +1,4 @@
-CREATE DATABASE iTrace2;
+CREATE DATABASE iTrace;
 
 CREATE TABLE session_info 
 (
