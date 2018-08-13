@@ -1,5 +1,3 @@
-CREATE DATABASE iTrace;
-
 CREATE TABLE session_info 
 (
     session_ID varchar(255),
